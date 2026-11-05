@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="None"
+
+[[mods]]
+
+modId="pcloudsmod"
+version="0.1.0"
+displayName="Pollution Clouds"
+description='''
+Pollution clouds.
+'''
+
+[[dependencies.pcloudsmod]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.255,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.pcloudsmod]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.pcloudsmod]]
+    modId="adpother"
+    type="optional"
+    versionRange="[9.0.0,)"
+    ordering="AFTER"
+    side="BOTH"

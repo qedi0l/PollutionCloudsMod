@@ -1,0 +1,13 @@
+{
+  "itemGroup.pclouds": "Example Mod Tab",
+
+  "pclouds.configuration.title": "PSLG Mod Configs",
+  "pclouds.configuration.section.pclouds.common.toml": "PSLG Mod Configs",
+  "pclouds.configuration.section.pclouds.common.toml.title": "PSLG Mod Configs",
+  "pclouds.configuration.cloud_enabled": "Clouds toggle",
+  "pclouds.configuration.cloud_base_radius": "Base cloud radius",
+  "pclouds.configuration.cloud_max_radius": "Max cloud radius",
+  "pclouds.configuration.cloud_scan_chunks": "Scan chunks",
+  "pclouds.configuration.cloud_sync_interval_ticks": "Sync rate",
+  "pclouds.configuration.cloud_query_radius": "Cache radius"
+}
